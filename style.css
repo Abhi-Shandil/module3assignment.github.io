@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: purple;
+}
+body{
+	background-color: purple;
+	color: black;
+}
+.glyphicon{
+	font-size: 30px;
+	color:purple; 
+}
+
+.center{
+	width: 90%;
+	background-color: silver;
+
+}
+.container
+{
+	background-color: silver;
+}
+.text-center{
+	font-size: 43px;
+    font-weight: 600
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: purple;
+}
+.navbar-brand{
+    font-size: 30px;
+    margin-top: 5px;
+}
